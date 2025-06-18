@@ -8,7 +8,7 @@ using namespace std;
 const char* HOST = "localhost";
 const char* USER = "root";
 const char* PW = "your password"; 
-const char* DB = "mydb";
+const char* DB = "mydb"; 
 
 class Flight{
 private:
